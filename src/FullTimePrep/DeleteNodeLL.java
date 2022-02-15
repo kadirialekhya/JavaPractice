@@ -5,4 +5,9 @@ public class DeleteNodeLL {
         node.val=node.next.val;
         node.next=node.next.next;
     }
+
+
+    /**
+     * comments
+     */
 }
